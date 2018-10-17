@@ -1,0 +1,7 @@
+<resources >
+
+    <string name="app_name">Odometer</string>
+    <string name="permission_denied">Location permission required</string>
+    <string name = "channel_name" >Odometer_channel</string >
+    <string name = "channel_description" >show permission requied message</string >
+</resources >
